@@ -11,4 +11,9 @@ La práctica se ha llevado a cabo de manera individual por Miguel Pérez Rego cu
 La práctica contiene tres archivos:
   * Un documento llamado _Memoria.pdf_ con las respuestas a las preguntas planteadas en la práctica y los nombres de los componentes del grupo.
   * Un archivo llamado _Terremotos.py_ en el que se encuentra el código de la práctica.
-  * un archivo llamdo _DatasetTerremotos.csv_ con los datos extraídos.
+  * Un archivo llamdo _DatasetTerremotos.csv_ con los datos extraídos.
+
+## DataSet - Publicación Zenodo
+
+El DataSet ha sido publicado en Zenodo con el OID 10.5281/zenodo.3748947 en la siguiente URL:
+ * https://zenodo.org/record/3748947
